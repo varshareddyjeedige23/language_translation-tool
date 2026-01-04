@@ -7,7 +7,7 @@ A responsive and modern web-based language translation tool with an anime-inspir
 ## ✨ Features
 - Translate text between multiple languages
 - Supports Indian and international languages
-- Clean anime-style UI
+- Clean simple-style UI
 - Mobile responsive design
 - Fast and easy to use
 
@@ -30,7 +30,10 @@ A responsive and modern web-based language translation tool with an anime-inspir
 ---
 
 ## 📸 Screenshot
-(Add your screenshot here)
+## 📸 Screenshot
+
+![Anime Translation Tool Screenshot](images/screenshot.png)
+
 
 ---
 
